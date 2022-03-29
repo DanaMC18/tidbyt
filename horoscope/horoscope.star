@@ -8,7 +8,7 @@ STAR_SIGNS = [
     "Aquarius",
     "Pisces",
     "Aries",
-    "Raurus",
+    "Taurus",
     "Gemini",
     "Cancer",
     "Leo",
@@ -56,8 +56,7 @@ def main():
                     scroll_direction="vertical",
                     width=64
                 )
-            ],
-            expanded = True
+            ]
         )
     )
 
